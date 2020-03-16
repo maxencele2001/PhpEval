@@ -11,7 +11,7 @@
     <?php require_once 'layout/header.php' ?>
 </header>
 
-<form method="POST">
+<form action='functions/enregistrer.php'method="POST">
 <div class="container mt-4">
   <div class="form-group">
     <label for="nom">Nom de la voiture</label>

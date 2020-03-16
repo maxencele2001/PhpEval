@@ -26,7 +26,7 @@
     <input type="text" class="form-control" id="km" placeholder="... en km">
   </div>
   <div class="form-group form-check">
-    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+    <input type="checkbox" class="form-check-input" id="visible">
     <label class="form-check-label" for="exampleCheck1">Visible</label>
   </div>
   <button type="submit" class="btn btn-primary">Modifier</button>
